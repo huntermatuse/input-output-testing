@@ -1,0 +1,4 @@
+[submodule "dockerLib"]
+	path = dockerLib
+	url = https://github.com/huntermatuse/py-docker-api-testing.git
+	branch = main
